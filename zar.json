@@ -2,5 +2,9 @@
   "mode": "false",
   "links": {
     "1": "https://google.com"
+  },
+  "countries": {
+    "1": "null",
+    "2": "PT"
   }
 }
